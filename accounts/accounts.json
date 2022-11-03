@@ -2,11 +2,11 @@
   "accounts": {
     "1": {
       "name": "John",
-      "money": 1000
+      "balance": 1000
     },
     "2": {
       "name": "Jane",
-      "money": 1500
+      "balance": 1500
     }
   }
 }

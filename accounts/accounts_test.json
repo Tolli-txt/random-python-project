@@ -15,6 +15,10 @@
         {
             "name": "test2",
             "balance": 166665342
+        },
+        {
+            "name": "New Guy",
+            "balance": 420
         }
     ]
 }
